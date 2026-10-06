@@ -1,0 +1,24 @@
+# .gitignore for Data Mining Learning Projects
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Large Files
+*.csv
+*.json
+*.sqlite3
+!**/data/sample_*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
