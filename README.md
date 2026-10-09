@@ -14,6 +14,9 @@ Kumpulan projek kecil dan eksperimen belajar Data Mining & Machine Learning.
    - Segmentasi pelanggan mall berdasarkan pendapatan & pengeluaran pakai K-Means.
 5. `05-deep-learning-image-mnist`
    - Pengenalan angka tulisan tangan dataset MNIST pakai Neural Network sederhana.
+6. `06-credit-risk-assessment`
+   - Prediksi risiko gagal bayar (loan default) perbankan dari dataset Excel (`.xlsx`) multi-sheet (`Data_Debitur` & `Riwayat_Pinjaman`) dengan Machine Learning & evaluasi imbalanced class.
+
 
 ## Cara Jalankan
 

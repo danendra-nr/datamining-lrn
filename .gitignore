@@ -22,3 +22,8 @@ __pycache__/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Helper / Generator Scripts
+generate_excel.py
+**/generate_excel.py
+
